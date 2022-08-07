@@ -1,4 +1,4 @@
-### Hello World, I'm Rizky Fadillah:
+### Hello, I'm Rizky Fadillah:
 
 <h1 align="center">
   <a target="_blank">
