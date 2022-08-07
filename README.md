@@ -12,8 +12,8 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FEC260&size=25&lines=Welcome+to+my+GitHub+Profile!;Nice+to+meet+you..." /></a>
 </p>
 
-🔭 I’m currently working from Home
-🌱 I’m currently learning Everything
+- 🔭 I’m currently working from Home
+- 🌱 I’m currently learning Everything
 
 <!--
 **fadillahrizki/fadillahrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
