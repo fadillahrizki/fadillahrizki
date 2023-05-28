@@ -17,12 +17,47 @@ I am very interested in the world of software development. I have experience in 
 &nbsp;
 &nbsp;
 <a href="https://www.java.com/en/">
-  <img align="center" alt="Java" title="Java" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/java.svg" />
+  <img align="center" alt="Java" title="Java" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/java.png" />
 </a>
 &nbsp;
 &nbsp;
 <a href="https://www.php.net/">
   <img align="center" alt="PHP" title="PHP" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/php.png" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://www.javascript.com/">
+  <img align="center" alt="Javascript" title="Javascript" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/js.png" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://laravel.com/">
+  <img align="center" alt="Laravel" title="Laravel" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/laravel.png" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://react.dev/">
+  <img align="center" alt="React" title="React" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/react.svg" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://vuejs.org/">
+  <img align="center" alt="Vue" title="Vue" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/vue.svg" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://flutter.dev/">
+  <img align="center" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/flutter.png" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://nodejs.org/">
+  <img align="center" alt="Node JS" title="Node JS" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/node-js.png" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://reactnative.dev/">
+  <img align="center" alt="React Native" title="React Native" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/react.svg" />
 </a>
 &nbsp;
 &nbsp;
