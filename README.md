@@ -3,7 +3,7 @@
 I am very interested in the world of software development. I have experience in building or managing software, either alone or with a team. Even though I mostly work alone, I still maintain teamwork when I'm with the team.
 - 🔭 Currently, I’m working from Anywhere.
 - 👯 I’m looking to collaborate on Software projects. Feel free to discuss with me!.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fadillahrizki), [Email]officialfadillahrizki@gmail.com.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fadillahrizki), [Email](officialfadillahrizki@gmail.com).
 
 ### Tech Stacks ###
 <a href="https://developer.android.com/studio">
