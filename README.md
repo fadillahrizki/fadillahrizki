@@ -1,31 +1,36 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, I'm Rizky Fadillah !
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
+### Hi there 👋. **Rizky Fadillah** is here!.
 
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FEC260&size=25&lines=Welcome+to+my+GitHub+Profile!;Nice+to+meet+you..." /></a>
+I am very interested in the world of software development. I have experience in building or managing software, either alone or with a team. Even though I mostly work alone, I still maintain teamwork when I'm with the team.
+- 🔭 Currently, I’m working from Anywhere.
+- 👯 I’m looking to collaborate on Software projects. Feel free to discuss with me!.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/fadillahrizki), officialfadillahrizki@gmail.com.
+
+### Tech Stacks ###
+<a href="https://developer.android.com/studio">
+  <img align="center" alt="Android Studio" title="Android Studio" width="21px" src="https://github.com/fadillahrizki/fadillahrizki/blob/main/android-studio.png" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://kotlinlang.org/">
+  <img align="center" alt="Kotlin" title="Kotlin" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/kotlin.svg" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://www.java.com/en/">
+  <img align="center" alt="Java" title="Java" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/java.svg" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://www.php.net/">
+  <img align="center" alt="PHP" title="PHP" width="21px" src="https://githubusercontent.com/fadillahrizki/fadillahrizki/main/php.png" />
+</a>
+&nbsp;
+&nbsp;
+
+### Github Statistics ###
+<p align="left">
+<a href="https://github.com/fadillahrizki">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadillahrizki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadillahrizki&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-- 🔭 I’m currently working from Home
-- 🌱 I’m currently learning Everything
-
-<!--
-**fadillahrizki/fadillahrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
