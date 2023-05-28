@@ -47,7 +47,7 @@ I am very interested in the world of software development. I have experience in 
 &nbsp;
 &nbsp;
 <a href="https://flutter.dev/">
-  <img align="center" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/flutter.png" />
+  <img align="center" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/fadillahrizki/fadillahrizki/main/flutter.svg" />
 </a>
 &nbsp;
 &nbsp;
